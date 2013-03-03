@@ -4,7 +4,7 @@
   <title><![CDATA[Alen Genzić Blog]]></title>
   <link href="http://TheEskhaton.github.com/atom.xml" rel="self"/>
   <link href="http://TheEskhaton.github.com/"/>
-  <updated>2013-03-03T23:28:10+01:00</updated>
+  <updated>2013-03-04T00:54:40+01:00</updated>
   <id>http://TheEskhaton.github.com/</id>
   <author>
     <name><![CDATA[Alen Genzić]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First post]]></title>
+    <link href="http://TheEskhaton.github.com/blog/2013/03/04/first-post/"/>
+    <updated>2013-03-04T00:46:00+01:00</updated>
+    <id>http://TheEskhaton.github.com/blog/2013/03/04/first-post</id>
+    <content type="html"><![CDATA[<p>Hello , my name is Alen, and I am a Web developer and IT student from Croatia. In this blog i will write about web technologies, mainly javascript,some html and CSS ocassionally. Some posts may even be related to KenticoCMS API examples, custom controls, tips and tricks.</p>
+]]></content>
+  </entry>
   
 </feed>
