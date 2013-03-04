@@ -4,7 +4,7 @@
   <title><![CDATA[Alen Genzić Blog]]></title>
   <link href="http://TheEskhaton.github.com/atom.xml" rel="self"/>
   <link href="http://TheEskhaton.github.com/"/>
-  <updated>2013-03-04T00:54:40+01:00</updated>
+  <updated>2013-03-04T21:28:02+01:00</updated>
   <id>http://TheEskhaton.github.com/</id>
   <author>
     <name><![CDATA[Alen Genzić]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Useful Git aliases]]></title>
+    <link href="http://TheEskhaton.github.com/blog/2013/03/04/useful-git-aliases/"/>
+    <updated>2013-03-04T20:36:00+01:00</updated>
+    <id>http://TheEskhaton.github.com/blog/2013/03/04/useful-git-aliases</id>
+    <content type="html"><![CDATA[<p><img src="http://TheEskhaton.github.com/images/Git-Logo-2Color.png" width="300" title="Git Logo" ></p>
+
+<p>These are 3 aliases that i find myself using all the time, since they are used a lot they tend to shorten my workflow a little bit. I&#8217;m using the jQuery repo for examples.</p>
+
+<h3>Short status</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>git config --global alias.s "status -s"</span></code></pre></td></tr></table></div></figure>
+
+
+<p><img class="center" src="http://TheEskhaton.github.com/images/git_short.png" title="git s preview" ></p>
+
+<p>Shortens git status, making it more readable and useful for a quick overview of staged and unstaged changes.</p>
+
+<h3>One Line Log</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>git config --global alias.ol "log --oneline"</span></code></pre></td></tr></table></div></figure>
+
+
+<p><img class="center" src="http://TheEskhaton.github.com/images/git_ol.png" title="git ol preview" ></p>
+
+<p>Provides a quick overview of the recently done commits without the author and date. Good for finding a commit hash for a quick checkout.</p>
+
+<h3>Quick branch and checkout</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>git config --global alias.b "checkout -b"</span></code></pre></td></tr></table></div></figure>
+
+
+<p><img class="center" src="http://TheEskhaton.github.com/images/git_branch.png" title="git b preview" ></p>
+
+<p>Creates a new branch and instantly switches the newly created branch.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First post]]></title>
