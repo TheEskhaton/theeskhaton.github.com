@@ -22,7 +22,7 @@ The Mozilla javascript [documentation](https://developer.mozilla.org/en/docs/Jav
 
 ### Idiomatic JS
 
-[Idiomatic JS](https://github.com/rwldrn/idiomatic.js/) is a collection of best practices, design patterns and good code habits in general reviewed and rewritten many times by javascript enthusiasts and with more than 450 forks. If you are in doubt about a javascript pattern habit you might have this is the right place to check.
+[Idiomatic JS](https://github.com/rwldrn/idiomatic.js/) is a collection of best practices, design patterns and good code habits in general reviewed and rewritten many times by javascript enthusiasts and with more than 450 forks. If you are in doubt about a javascript pattern habit you might have this is the right place to check. 
 
 
 ### Freenode IRC #jQuery and ##Javascript channels
