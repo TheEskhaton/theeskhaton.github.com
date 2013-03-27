@@ -13,7 +13,7 @@ This is a list of some of the most useful resources for a beginner-advanced java
 
 {% img left /images/mdn-logo-sm.png %}
 
-The Mozilla javascript [documentation](https://developer.mozilla.org/en/docs/JavaScript) is one of the most valuable resources for a javascript developer. It includes the latest javascript documentation, browser compatibility details, fallbacks for older browsers as well as a comprehensive JS tutorial.
+The Mozilla javascript [documentation](https://developer.mozilla.org/en/docs/JavaScript) is one of the most valuable resources for a javascript developer. It includes the latest javascript  documentation, browser compatibility details, fallbacks for older browsers as well as a comprehensive JS tutorial.
 
 ### StackOverflow
 
